@@ -28,24 +28,13 @@
 
   <body>
 
-    <div class="topbar">
-      <div class="fill">
-        <div class="container">
-          <a class="brand" href="#"><%= @item[:site_name]%></a>
-					<%= render '/partials/default/nav'%>
-        </div>
-      </div>
-
-    </div>
+    <%= render '_header' %>
 
     <div class="container">
 
       <%= yield%>
 
-      <footer>
-        <p>&copy; Cindy Colorado 2012</p>
-
-      </footer>
+      <%= render '_footer' %>
 
     </div> <!-- /container -->
 
