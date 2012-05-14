@@ -1,11 +1,9 @@
 --- 
-title: Intro
+title: Cindy Colorado
 layout: intro
 ---
 
-# Hellow, world
+Cindy Colorado LLC is owned and operated out of Fort Collins, Colorado and has been providing old time craftsmanship and a refreshing dedication to quality and workmanship for over 15 years.
 
-This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
-
-<a class="btn btn-primary btn-small">Learn more &raquo;</a>
+<!-- <a class="btn btn-primary btn-small">Learn more &raquo;</a> -->
 
