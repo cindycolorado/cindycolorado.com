@@ -1,6 +1,9 @@
 ---
 title: Contact Cindy
+layout: main
 ---
+
+# Contact Cindy
 
 ### Email:
 [hats@cindycolorado.com](mailto:hats@cindycolorado.com)
