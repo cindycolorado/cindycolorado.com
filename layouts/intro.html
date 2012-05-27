@@ -16,51 +16,41 @@
         padding-top: 60px;
         padding-bottom: 40px;
       }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
     </style>
+    <link href="/assets/css/bootstrap-responsive.css" rel="stylesheet">
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
+
   </head>
 
   <body>
 
     <%= render '_header' %>
 
-    <div class="container">
-
-      <!-- Main hero unit for a primary marketing message or call to action -->
-      <div class="hero-unit">
-        <h1><%= item[:title] %></h1>
-        <%= yield %>
-      </div>
-
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="span4">
-          <h2>Welder Hats</h2>
-           <p>Custom welder's hats. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <h2>Design</h2>
-           <p>Design and consultation. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-       </div>
-        <div class="span4">
-          <h2>Consulting</h2>
-          <p>Some other information on Consulting</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-      </div>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <%= render '_sidebar' %>
+        <div class="span9">
+          <div class="hero-unit">
+            <%= yield%>
+          </div>
+          <%= render '_pump' %>
+        </div><!--/span-->
+      </div><!--/row-->
 
       <hr>
 
       <%= render '_footer' %>
 
-    </div> <!-- /container -->
+    </div><!--/.fluid-container-->
+
 
     <!-- Le javascript
     ================================================== -->
