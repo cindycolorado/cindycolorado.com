@@ -37,7 +37,7 @@ compile '*' do
   if not item.binary?
     filter :erb
     filter :kramdown
-    layout (item[:layout] || 'default')
+    layout (item[:layout] || 'main')
   end
 end
 
