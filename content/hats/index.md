@@ -9,7 +9,7 @@ layout: main
 
 # Crown Royal Items
 
-# Other Stuff for sale
+# Other Products for sale
 
 # Design and Prototyping
 
