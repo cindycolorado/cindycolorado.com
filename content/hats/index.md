@@ -5,5 +5,11 @@ layout: main
 
 # Custom Welder's Hats
 
-# Other Stuff
+# Tool Keepers
+
+# Crown Royal Items
+
+# Other Stuff for sale
+
+# Design and Prototyping
 
