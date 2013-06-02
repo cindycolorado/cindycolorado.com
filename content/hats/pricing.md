@@ -9,7 +9,7 @@ title: Order Pricing
 
 **Snazzy** - $14.50 (stitching on bill, band and all crown seams)
 
-**NAME** - .50 cents per hat for first set of lettering(name, initials, or numbers)
+**NAME** - Add .50 cents per hat for first set of lettering(name, initials, or numbers)
 
 **Second set of lettering** $2.50 per hat (specify placement)
 

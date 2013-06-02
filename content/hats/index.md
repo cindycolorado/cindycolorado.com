@@ -5,3 +5,5 @@ layout: main
 
 # Custom Welder's Hats
 
+# Other Stuff
+
