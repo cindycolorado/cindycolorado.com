@@ -5,9 +5,9 @@ title: Order Pricing
 # Price:
 (Not including tax & shipping)
 
-**Basic** - $11.00 (name and stitching on bill only)
+**Basic** - $12.00 (name and stitching on bill only)
 
-**Snazzy** - $13.50 (name and stitching on bill, band and all crown seams)
+**Snazzy** - $14.50 (name and stitching on bill, band and all crown seams)
 
 **Flame Resistant** - $16.00 (name and stitching on bill only)
 
@@ -22,5 +22,4 @@ If two names are requested, please specify placement of both sets of lettering.
 
 ## Shipping and Handling:
 
-(1-5 hats = $4.85), (6-10 = $6.50), (11-15 = $8.00), (16-20 = $10.00)
-
+(1-5 hats = $5.75), (6-12 = $7.00), (13-20 = $9.00), (21-40 = $12.00)
