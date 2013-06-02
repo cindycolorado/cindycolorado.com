@@ -6,8 +6,7 @@ title: Fabrics
 
 All hat fabrics are **preshrunk** and *100% cotton*.
 
-* **Heavy Weight**, (Black, Charcoal, White, Dk Brown, Carhartt
-Brown, Mocha, Lt Brown, Tan, Natural, Dk Burgundy, Maroon, Red, Navy Blue, Dk
+* **Heavy Weight**, (Black, Charcoal, White, Dk Chocolate, Plum Brown, Mocha, Cinnamon,Carhartt, Brown, Lt Brown, Tan, Natural, Dk Burgundy, Maroon, Red, Navy Blue, Dk
 Blue, Royal Blue, Smokey Blue, Turquoise, Dk Purple, Bright Purple, Sunflower
 Gold, Lt Yellow, Hunter Green, Dk Olive, Lt Olive, Blue Denim)
 
