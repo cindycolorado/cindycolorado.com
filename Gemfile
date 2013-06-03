@@ -1,5 +1,4 @@
-source 'http://rubygems.org'
-
+source 'https://rubygems.org'
 gem 'nanoc'
 gem 'mime-types'
 gem 'less'
