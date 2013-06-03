@@ -16,5 +16,6 @@ def sync():
     rsync_project(local_dir='output/',remote_dir='/var/www/www/',delete=True)
 
 def deploy():
+    setup()
     compile()
     sync()
