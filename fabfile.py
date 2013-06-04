@@ -2,12 +2,13 @@
 
 from fabric.api import *
 from fabric.contrib.project import rsync_project
+import os
 
 env.hosts = ['n3kl.cx']
 env.user = 'deploy'
 
 def setup():
-    local('bundle install')
+    local('bundle install ' + '--path ' + os.environ['WORKSPACE'])
 
 def compile():
     local('bundle exec nanoc co')
