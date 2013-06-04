@@ -14,7 +14,7 @@ def compile():
     local('bundle exec nanoc co')
 
 def sync():
-    rsync_project(local_dir='output/',remote_dir='/var/www/www/',delete=True)
+    rsync_project(local_dir='output/',remote_dir='/var/www/cindycolorado.com/',delete=True)
 
 def deploy():
     setup()
