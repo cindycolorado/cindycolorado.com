@@ -1,6 +1,5 @@
 ---
 title: Crown Royal
-layout: main
 ---
 
 # Crown Royal Blankets and Pillows
