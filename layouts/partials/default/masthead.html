@@ -6,9 +6,9 @@
           <div class="navbar-inner">
             <div class="container">
               <ul class="nav">
-                <li class="active"><a href="/">Home</a></li>
-                <li><a href="/products/">Products</a></li>
-                <li><a href="/contact/">Contact</a></li>
+                <li class="<%= 'active' if @item.path == '/' %>"><a href="/">Home</a></li>
+                <li class="<%= 'active' if @item.path == '/products/' %>"><a href="/products/">Products</a></li>
+                <li class="<%= 'active' if @item.path == '/contact/' %>"><a href="/contact/">Contact</a></li>
               </ul>
             </div>
           </div>
