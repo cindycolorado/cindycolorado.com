@@ -13,5 +13,17 @@
             </div>
           </div>
         </div><!-- /.navbar -->
+        <ul class="breadcrumb">
+          <% breadcrumbs_trail.each do |crumb| %>
+          <li class="<%= 'active' if crumb.path == @item.path %>">
+            <span class="divider">/</span>
+            <% if crumb.path == @item.path %>
+            <%= crumb[:title] %>
+            <% else %>
+            <a href="<%= crumb.path %>"><%= crumb[:title] %></a>
+            <% end %>
+          </li>
+          <% end %>
+        </ul>
       </div>
 
