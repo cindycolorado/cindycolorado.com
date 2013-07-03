@@ -1,5 +1,4 @@
 ---
 title: Products
-layout: products
 ---
 
