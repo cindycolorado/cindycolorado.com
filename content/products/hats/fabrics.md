@@ -1,8 +1,9 @@
 ---
 title: Fabrics
+layout: hats
 ---
 
-# Fabrics
+## Fabrics
 
 All hat fabrics are **preshrunk** and *100% cotton*.
 
