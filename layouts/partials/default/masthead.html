@@ -13,8 +13,10 @@
             </div>
           </div>
         </div><!-- /.navbar -->
+        <!--
         <ul class="breadcrumb">
-          <% breadcrumbs_trail.each do |crumb| %>
+          <% breadcrumbs_trail.each_with_index do |crumb, index| %>
+          <% next if index == 0 %>
           <li class="<%= 'active' if crumb.path == @item.path %>">
             <span class="divider">/</span>
             <% if crumb.path == @item.path %>
@@ -25,5 +27,6 @@
           </li>
           <% end %>
         </ul>
+        -->
       </div>
 

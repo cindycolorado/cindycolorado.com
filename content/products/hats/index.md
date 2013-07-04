@@ -1,14 +1,8 @@
 ---
-title: Custom Welder's Hats by Cindy Colorado
+title: Custom Welder's Hats
+layout: hats
 ---
 
-# Custom Welder's Hats
+## Custom Welder's Hats
 
-# Tool Keepers
-
-# Crown Royal Items
-
-# Other Products for sale
-
-# Design and Prototyping
 

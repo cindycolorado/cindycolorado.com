@@ -1,26 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>CindyColorado &middot; Home</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
 
-    <%= render '/partials/default/css'%>
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="../assets/js/html5shiv.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="/assets/ico/favicon.png">
-  </head>
+  <%= render '/partials/default/head'%>
 
   <body>
 
@@ -28,35 +9,15 @@
 
       <%= render '/partials/default/masthead'%>
 
-      <%= render '/partials/default/intro'%>
+      <%= render '/partials/products/_sidebar'%>
 
-      <hr>
-
-      <!-- Example row of columns -->
-      <div class="row-fluid">
-        <div class="span4">
-          <h2>Welder Hats</h2>
-          <p>Custom welder's hats in all sizes, weights and colors.
-          Embroidery available!</p>
-          <p><a class="btn" href="/hats/">View details &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-       </div>
-        <div class="span4">
-          <h2>Design and Prototype</h2>
-          <p>Need a prototype or some design expertise? We can help.</p>
-          <p><a class="btn" href="/contact/">Contact us &raquo;</a></p>
-        </div>
+      <div class="span7">
+        <%= render '/partials/products/tools'%>
       </div>
 
       <hr>
 
-      <div class="footer">
-        <p>&copy; Company 2013</p>
-      </div>
+      <%= render '/partials/default/footer'%>
 
     </div> <!-- /container -->
 
