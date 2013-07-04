@@ -1,10 +1,10 @@
 ---
-title: Contact Us
-layout: main
+title: Contact
+layout: contact
 ---
 
-# Contact Us
+## Questions? Comments? Suggestions? Contact us!
 
-If you have questions about any of the products or services we provide, don't
-hesitate to ask. Cindy can be reached by [email](mailto:cindy@cindycolorado.com) or by phone at **970 493 9333**.
-
+| --- | --- |
+| Tel | 970.493.9333 |
+| E-Mail | [cindy@cindycolorado.com](mainto:cindy@cindycolorado.com) |

@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'nanoc'
 gem 'mime-types'
-gem 'less'
+gem 'less', '2.3.2'
 gem 'rainpress'
 gem 'adsf'
 gem 'kramdown'

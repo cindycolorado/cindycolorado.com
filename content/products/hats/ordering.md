@@ -1,8 +1,9 @@
 ---
 title: Ordering
+layout: hats
 ---
 
-# Ordering
+## Ordering
 
 To order, please [download the order form](/hats/orderform.pdf) and mail completed form with payment to:
 
