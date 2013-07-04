@@ -1,8 +1,9 @@
 ---
 title: Order Pricing
+layout: hats
 ---
 
-# Price:
+## Pricing
 (Not including tax & shipping)
 
 **Basic** - $12.00 (stitching on bill only)

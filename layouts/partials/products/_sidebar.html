@@ -1,0 +1,13 @@
+        <div class="span3">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header active">Hats</li>
+              <li class="<%= 'active' if @item.path == '/products/hats/fabrics/' %>"><a href="/products/hats/fabrics/">Fabrics</a></li>
+              <li class="<%= 'active' if @item.path == '/products/hats/pricing/' %>"><a href="/products/hats/pricing/">Pricing</a></li>
+              <li class="<%= 'active' if @item.path == '/products/hats/ordering/' %>"><a href="/products/hats/ordering/">Ordering</a></li>
+              <li class="nav-header">Tool Keeping</li>
+              <li class="<%= 'active' if @item.path == '/products/tools/' %>"><a href="/products/tools/">Pictures</a></li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
