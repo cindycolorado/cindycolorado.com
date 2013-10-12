@@ -30,4 +30,4 @@ If two names are requested, please specify placement of both sets of lettering.
 
 ## Shipping and Handling:
 
-(1-5 hats = $5.75), (6-12 = $7.00), (13-20 = $9.00), (21-40 = $12.00)
+(1-5 hats = $5.80), (6-12 = $7.30), (13-20 = $9.00), (21-40 = $12.00)
