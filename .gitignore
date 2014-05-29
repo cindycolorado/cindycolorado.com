@@ -4,3 +4,4 @@ Gemfile.lock
 *.pyc
 *.log
 .DS_Store
+_site
