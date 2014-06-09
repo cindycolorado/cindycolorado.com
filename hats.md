@@ -54,3 +54,7 @@ To order, please download the [order form](/hats/orderform.pdf) and mail complet
     846 Greenfield Court
     Fort Collins, CO 80524
 
+We also accept payment through PayPal.  Please direct funds to
+`cindy@cindycolorado.com` for use with PayPal.
+
+
