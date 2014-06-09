@@ -3,7 +3,7 @@ layout: page
 title: Hats
 ---
 
-Custom Welder's Hats made to order.  Choose your fabrics and flare
+Custom Welder's Hats made to order.  Choose your fabrics and flare below.
 
 ## Fabrics
 
