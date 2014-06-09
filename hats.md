@@ -48,7 +48,7 @@ Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Gre
 
 ## Ordering
 
-To order, please download the [order form](/products/hats/orderform.pdf) and mail completed form with payment to:
+To order, please download the [order form](/hats/orderform.pdf) and mail completed form with payment to:
 
     Cindy Colorado, LLC
     846 Greenfield Court
