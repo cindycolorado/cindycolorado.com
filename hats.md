@@ -49,15 +49,9 @@ Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Gre
 ## Ordering
 
 To order, please download the [order form](/hats/orderform.pdf) and e-mail a
-completed version or scanned copy to [cindy@cindycolorado.com][email].  We will
-also accept orders by mail with payment included to the following address:
+completed version or scanned copy to [cindy@cindycolorado.com][email].
 
-    Cindy Colorado LLC
-    846 Greenfield Court
-    Fort Collins, CO 80524
-
-We also accept payment through PayPal.  Please click below to direct funds to
-Cindy Colorado.
+Click below to direct funds to Cindy Colorado through PayPal.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -65,5 +59,10 @@ Cindy Colorado.
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+Checks can be made out to **Cindy Colorado LLC** mailed to the following address.
+
+    846 Greenfield Court
+    Fort Collins, CO 80524
 
 [email]: mailto: cindy@cindycolorado.com

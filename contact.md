@@ -1,12 +1,8 @@
 ---
 title: Contact Cindy
 layout: page
-published: false
 ---
 
-If you have a project idea, or design work, or just have a question, don't
-hesitate to send an email or pick up the phone.
+If you have a project idea, or design work, or just have a question, send me an email.  Phone works also, but please email if you can.
 
-| --- | --- |
-| Tel | 970.493.9333 |
-| E-Mail | [cindy@cindycolorado.com](mailto:cindy@cindycolorado.com) |
+Tel: `970 493 9333`
