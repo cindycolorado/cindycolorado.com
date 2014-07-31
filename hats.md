@@ -14,7 +14,7 @@ All hat fabrics are **preshrunk** and *100% cotton*.
 * **Medium Weight**, (Black, Gray, White, Tan,
 Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Green, Dark Olive, Sage Green, Orange, Desert Camo, Mossy Oak Camo, Green Army Camo)
 
-* **Flame Resistant**, (Royal)
+* **Flame Resistant**, (Navy and Dark Royal)
 
 ## Pricing
 
