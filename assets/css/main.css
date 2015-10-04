@@ -1,0 +1,38 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    padding-top: 70px;
+    padding-bottom: 120px;
+}
+
+.jumbotron .img-responsive {
+    margin: 0 auto;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    background-color: #f5f5f5;
+    padding-top: 19px;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+}
+.container .text-muted {
+    margin: 20px 0;
+}
