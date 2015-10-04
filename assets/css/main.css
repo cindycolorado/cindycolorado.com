@@ -1,3 +1,24 @@
+/*
+fcfff5
+d1dbbd
+91aa9d
+3e606f
+193441
+*/
+
+@font-face {
+    font-family: 'Prociono';
+    src: url('/assets/fonts/Prociono-Regular-webfont.woff')
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Prociono';
+}
+
+p {
+    text-align: justify;
+}
+
 html {
     position: relative;
     min-height: 100%;
