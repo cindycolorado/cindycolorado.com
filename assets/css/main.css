@@ -11,14 +11,6 @@ d1dbbd
     src: url('/assets/fonts/Prociono-Regular-webfont.woff')
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Prociono';
-}
-
-p {
-    text-align: justify;
-}
-
 html {
     position: relative;
     min-height: 100%;
@@ -56,6 +48,21 @@ body {
     padding-bottom: 20px;
     border-bottom: 1px solid #e5e5e5;
 }
+
+.page-content {
+    padding-bottom: 50px;
+}
+
+
+/* Fonts and text */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Prociono';
+}
+
+p {
+    text-align: justify;
+}
+
 
 /* Sticky footer styles
 -------------------------------------------------- */
