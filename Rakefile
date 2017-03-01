@@ -6,6 +6,6 @@ task :deploy do
 end
 
 task :build do
-  system 'jekyll build'
+  system 'jekyll build --incremental'
 end
 
