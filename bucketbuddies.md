@@ -13,7 +13,7 @@ Some uses this item has been used for:
   * Tool keeper for landscaping supplies 
   * Cleaning Supply Tote for around the house or shop, or as a business
 
-Colors:  Royal, Red, Black, Dark Gray, Purple, Dark Green, Teal, Dark Brown, Coyote 
+Colors:  Royal, Red, Black, Dark Gray, Dark Green, Dark Brown, Coyote 
 
 Brown, Blaze Orange, Neon Green
 
