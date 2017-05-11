@@ -9,10 +9,10 @@ Custom Welder's Hats made to order.  Choose your fabrics and flare below.
 
 All hat fabrics are **preshrunk** and *100% cotton*.
 
-* **Heavy Weight**, (Black, Charcoal, Light Gray, White, Dk Brown, Plum Brown, Tobacco, Cinnamon, Carhartt Brown, Lt Brown, Tan, Natural, Dk Burgundy, Wine, Red, Orange, Dark Gold, Sunflower Gold, Bright Yellow, Light Yellow, Hunter Green, Dk Olive, Lt Olive, Teal Green, Kelly Green, Navy Denim, Dark Navy, Dark Royal, Royal Blue, Sky Blue, Turquoise, Dk Purple, Bright Purple, Real Tree Camo)
+* **Heavy Weight**, (Black, Charcoal, Light Gray, White, Dk Brown, Plum Brown, Tobacco, Cinnamon, Carmel, Lt Brown, Tan, Natural, Dk Burgundy, Wine, Red, Orange, Dark Gold, Sunflower Gold, Bright Yellow, Light Yellow, Hunter Green, Dk Olive, Lt Olive, Teal Green, Kelly Green, Navy Denim, Dark Navy, Dark Royal, Royal Blue, Sky Blue, Turquoise, Dk Purple, Bright Purple, Real Tree Camo)
 
 * **Medium Weight**, (Black, Gray, White, Tan,
-Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Green, Dark Olive, Sage Green, Orange, Desert Camo, Mossy Oak Camo)
+Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Green, Dark Olive, Sage Green, Orange, Mossy Oak Camo)
 
 * **Flame Resistant**, (Navy and Dark Royal)
 
@@ -44,8 +44,7 @@ Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Gre
 
 ### Shipping and Handling:
 
-(1-5 hats = $5
-.75), (6-12 = $8.00), (13-20 = $9.50), (21-40 = $14.00)
+(1-5 hats = $5.75), (6-12 = $8.50), (13-20 = $10.50), (21-40 = $15.50)
 
 ## Ordering
 
