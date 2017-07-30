@@ -2,7 +2,7 @@
 #
 
 task :deploy do
-  system 'rsync -rlt --del _site/ webdeploy@cindycolorado.com:/usr/local/www/cindycolorado.com/'
+  system 'rsync -rlt --del _site/ webdeploy@com1.larch.space:/usr/local/www/cindycolorado.com/'
 end
 
 task :build do
