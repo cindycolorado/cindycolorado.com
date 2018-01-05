@@ -20,19 +20,19 @@ Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Gre
 
 (Not including tax & shipping)
 
-* **Basic** - $12.00 (stitching on bill only)
+* **Basic** - $12.50 (stitching on bill only)
 
-* **Snazzy** - $14.50 (stitching on bill, band and all crown seams)
+* **Snazzy** - $15.00 (stitching on bill, band and all crown seams)
 
-* **Name** - Add .50 cents per hat for first set of lettering(name, initials, or numbers)
+* **Name** - Add .75 cents per hat for first set of lettering(name, initials, or numbers)
 
-* **Second set of lettering** $2.50 per hat (specify placement)
+* **Second set of lettering** $2.75 per hat (specify placement)
 
-* **2 color hats available** - Add $1.50 per hat (No charge if you order 2 of the same color combination)
+* **2 color hats available** - Add $1.75 per hat (No charge if you order 2 of the same color combination)
 
 * **Second color under bill only**-No charge and you may order a single hat
 
-* **Flame Resistant** - $17.00 (name and stitching on bill only)
+* **Flame Resistant** - $17.50 (name and stitching on bill only)
 
 ### Other Information:
 
@@ -44,7 +44,7 @@ Burgundy, Red, Raspberry, Navy Blue, Royal Blue, Blueberry, Sky Blue, Forest Gre
 
 ### Shipping and Handling:
 
-(1-5 hats = $5.75), (6-12 = $8.50), (13-20 = $10.50), (21-40 = $15.50)
+(1-5 hats = $5.85), (6-12 = $8.50), (13-20 = $10.50), (21-40 = $15.50)
 
 ## Ordering
 
