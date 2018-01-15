@@ -1,6 +1,8 @@
 ---
-layout: default
 title: Hats
+menu: "main"
+type: "product"
+weight: 4
 ---
 
 Custom Welder's Hats made to order.  Choose your fabrics and flare below.

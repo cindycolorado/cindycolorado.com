@@ -1,6 +1,8 @@
 ---
-layout: page
 title: Bucket Buddies
+menu: "main"
+type: "product"
+weight: 8
 ---
 
 A Bucket Buddy is pocket pouch on a bucket to keep all your things organized.  

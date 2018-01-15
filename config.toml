@@ -1,0 +1,41 @@
+baseURL = "https://cindycolorado.com"
+languageCode = "en-us"
+title = "Cindy Colorado"
+
+theme = "initio"
+
+[params]
+  name = "Cindy Colorado"
+  description = "I am excited to design and sew your dreams and ideas into tangible concepts, working models, prototypes and production–ready products."
+  email = "cindy@cindycolorado.com"
+  phone =  "(970) 493 9333"
+  address = "846 Greenfields Court, Fort Collins, CO 80524"
+  year = 2018
+  background = ""
+  favicon = "/img/favicon.png"
+  DateForm = "January 2, 2006"
+
+  showSubheader = false
+  showServices = false
+  showRecentWorks = false
+  showDownload = false
+  showClients = false
+
+  footerEnableContact = true
+  footerEnableFollowme = true
+  footerEnableTextWidget = false
+  footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[params.social]]
+  title = "email"
+  url = "mailto:cindy@cindycolorado.com"
+    icon = "fa-envelope"
+    footer = true
+    sharethis = false
+    network = "email"
+

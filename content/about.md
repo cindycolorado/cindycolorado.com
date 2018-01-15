@@ -1,6 +1,8 @@
 ---
-layout: page
 title: About
+menu: "main"
+type: "about"
+weight: 10
 ---
 
 I have loved to sew and design since I was a little girl.  I got my first
