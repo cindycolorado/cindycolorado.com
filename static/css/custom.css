@@ -1,0 +1,12 @@
+#head {
+  /* background: #f4f4f4 url(../img/bg_head.jpg) top center; */
+  background: none;
+  background-size: cover;
+  color: #7C7C7C;
+  padding: 30px 0 35px 0;
+}
+
+#head img.img-circle {
+  padding: 10px;
+  height: 100%;
+}
