@@ -9,4 +9,4 @@ images:
  - "/img/tool3.jpg"
 ---
 
-Neat
+A neat way to keep your wrenches tidy!
