@@ -4,6 +4,11 @@ pipeline {
   triggers { pollSCM('H */4 * * *') }
 
   stages {
+    stage('clean') {
+      steps {
+        sh 'rm -rf public/*'
+      }
+    }
 
     stage('build') {
       steps {
