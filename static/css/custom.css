@@ -1,5 +1,6 @@
 #head {
   /* background: #f4f4f4 url(../img/bg_head.jpg) top center; */
+  border-radius: none;
   background: none;
   background-size: cover;
   color: #7C7C7C;
@@ -9,4 +10,15 @@
 #head img.img-circle {
   padding: 10px;
   height: 100%;
+  border: none;
 }
+
+.img-circle {
+  border-radius: unset;
+}
+
+img {
+  max-width: 87.5%;
+}
+
+

@@ -3,6 +3,10 @@ title: Hats
 menu: "main"
 type: "product"
 weight: 4
+images:
+ - "/img/hats1.jpg"
+ - "/img/hats2.jpg"
+ - "/img/hats3.jpg"
 ---
 
 Custom Welder's Hats made to order.  Choose your fabrics and flare below.
