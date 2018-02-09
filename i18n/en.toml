@@ -1,0 +1,29 @@
+[postsAbout]
+other = "Posts about:"
+
+[postsList]
+other = "List of posts"
+
+[about]
+other = "About"
+
+[homePage]
+other = "Homepage"
+
+[previous]
+other = "previous"
+
+[next]
+other = "next"
+
+[categories]
+other = "Categories"
+
+[tags]
+other = "Tags"
+
+[loggedAs]
+other = "You're logged in as"
+
+[404Page]
+other = "Just kidding. This page does not exist (404)."
