@@ -5,6 +5,7 @@ type: "product"
 weight: 8
 images:
  - "/img/bucket1.jpg"
+ordering: true
 ---
 
 A Bucket Buddy is pocket pouch on a bucket to keep all your things organized.  
