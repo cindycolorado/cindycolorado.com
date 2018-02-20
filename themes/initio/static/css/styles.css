@@ -477,10 +477,10 @@ img {
   text-decoration: none;
 }
 .thumbnail:hover img {
-  -webkit-filter: saturate(0%);
+  /* -webkit-filter: saturate(0%); */
 }
 .thumbnail:hover .cover {
-  opacity: 1;
+  /* opacity: 1; */
 }
 /* pagination */
 .pagination > li > a {
