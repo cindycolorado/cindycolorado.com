@@ -9,4 +9,5 @@ images:
  - "/img/tool3.jpg"
 ---
 
-A neat way to keep your wrenches tidy!
+A neat way to keep your wrenches tidy! 
+Available in Standard, Metric and Shorty
