@@ -4,8 +4,8 @@ menu: "main"
 type: "product"
 weight: 8
 images:
- - "/img/tool1.jpg"
- - "/img/tool2.jpg"
+ - "/img/Std,Met,Shor.jpg"
+ - "/img/stdflat.jpg"
  - "/img/tool3.jpg"
  - "/img/SHORTY.jpg"
  - "/img/METRIC.jpg"
