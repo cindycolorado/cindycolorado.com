@@ -11,8 +11,9 @@ images:
  - "/img/METRIC.jpg"
  - "/img/SHORTY.jpg"
  ordering: true
-orderform will be added soon.  Until then send order via email to cindy@cindycolorado.com please state second color choice when ordering
 ---
+orderform will be added soon.  Until then send order via email to cindy@cindycolorado.com please state second color choice when ordering
+
 
 A neat way to keep your wrenches tidy!
  
