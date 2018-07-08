@@ -4,16 +4,16 @@ menu: "main"
 type: "product"
 weight: 8
 images:
- - "/img/Std_Met_Shor.jpg"
- - "/img/stdflat.jpg"
- - "/img/tool3.jpg"
- - "/img/STANDARD.jpg"
- - "/img/METRIC.jpg"
- - "/img/SHORTY.jpg"
- ordering: true
+  - "/img/Std_Met_Shor.jpg"
+  - "/img/stdflat.jpg"
+  - "/img/tool3.jpg"
+  - "/img/STANDARD.jpg"
+  - "/img/METRIC.jpg"
+  - "/img/SHORTY.jpg"
+ordering: true
 ---
-Orderform will be added soon.  Until then send order via email to cindy@cindycolorado.com please state second color choice when ordering
 
+Order form will be added soon.  Until then send order via email to cindy@cindycolorado.com please state second color choice when ordering.
 
 A neat way to keep your wrenches tidy!
  
