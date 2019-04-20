@@ -5,10 +5,13 @@ type: "product"
 weight: 8
 images:
  - "/img/travelDITTYBAG.jpg"
+ - "/img/DITTYbag-line.jpg"
+ - "/img/DITTYbag-front.jpg"
+ - "/img/DITTYbag-inside.jpg"
 ordering: true
 ---
 
-A DITTY BAG is a bag for travel or home.  
+A DITTY BAG is a bag for toiletries for travel or home.  
 
 
   * Clear Vinyl from lets you view items inside 
