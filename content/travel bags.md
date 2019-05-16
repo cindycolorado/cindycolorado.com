@@ -14,12 +14,13 @@ ordering: true
 A DITTY BAG is a bag for toiletries for travel or home.  
 
 
-  * Clear Vinyl from lets you view items inside 
+  * Clear Vinyl front lets you view items inside. 
   * Sides and back are heavy, durable nylon with 4 organizer pockets on inside back.
+  * Tall enough to accomodate a toothbrush.
   * Zipper on top wraps around corners for ease of loading, viewing and finding you stuff. 
-  * Flat grab handle on top
-  * Small tab on one end and grab handle on other end of zipper
-  * Seperate WHATEVER bag included for bandaids, clippers, tweezers, small scissors or...WHATEVER.
+  * Flat grab handle on top.
+  * Small tab on one end and grab handle on other end of zipper.
+  * Separate WHATEVER bag included for band aids, clippers, tweezers, small scissors or...WHATEVER.
   * 10" wide x 8 1/2" tall x 3" deep.
   
 
