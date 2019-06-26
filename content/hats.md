@@ -27,11 +27,11 @@ All hat fabrics are **preshrunk** and *100% cotton*.
 
 (Not including tax & shipping)
 
-* **Basic** - $12.50 (stitching on bill only)
+* **Basic** - $13.00 (stitching on bill only)
 
-* **Snazzy** - $15.00 (stitching on bill, band and all crown seams)
+* **Snazzy** - $15.50 (stitching on bill, band and all crown seams)
 
-* **Name** - Add .75 cents per hat for first set of lettering(name, initials, or numbers)
+* **Name** - Add $1.00 per hat for first set of lettering(name, initials, or numbers)
 
 * **Second set of lettering** $2.75 per hat (specify placement)
 
@@ -51,6 +51,6 @@ All hat fabrics are **preshrunk** and *100% cotton*.
 
 ### Shipping and Handling:
 
-(1-5 hats = $5.85), (6-12 = $8.50), (13-20 = $10.50), (21-40 = $15.50)
+(1-6 hats = $5.85), (7-14 = $8.85), (15-25 = $11.00), (26-50 = $16.00)
 
 
