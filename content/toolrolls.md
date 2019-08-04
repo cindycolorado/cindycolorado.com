@@ -11,29 +11,27 @@ images:
   - "/img/METRIC.jpg"
   - "/img/SHORTY.jpg"
 ordering: true
----
+orderform: "/toolrolls/orderformtoolroll.pdf"
 A neat way to keep your wrenches tidy!
-
-**Order form will be added soon.** Until then send order via email to cindy@cindycolorado.com please state second color choice when ordering.
 
  
 Available in STANDARD, METRIC and SHORTY
 
 ## Fabrics
 
-All Wrench Rolls are made of heavy nylon fabric for durability
+All Wrench Rolls are made of heavy 1000D nylon fabric for durability
 
 **STANDARD WRENCH ROLL** has 14 pockets and is made for long wrenches
 
-* **in stock colors**: Black, Dark Navy, Bright Navy, Royal Blue, Purple, Olive Green, Forest Green, Grass Green, Teal, Red, Gold
+* **in stock colors**: Black, Navy, Royal Blue, Purple, Olive Green, Forest Green, Grass Green, Teal, Red, Gold
 
 **METRIC WRENCH ROLL** has 18 pockets and is made for long wrenches
 
-* **in stock colors**: Black, Gray, Silver, Dark Navy, Bright Navy, Royal Blue, Colonial Blue, Hunter Green, Bright Teal, Red
+* **in stock colors**: Black, Gray, Silver, Navy, Royal Blue, Colonial Blue, Hunter Green, Bright Teal, Red
 
 **SHORTY WRENCH ROLL** has 14 pockets and is made for short wrenches or whatever tools you prefer
 
-* **in stock colors**: Black, Gray, Silver, Royal Blue, Colonial Blue, Bright Teal, Cranberry, Red
+* **in stock colors**: Black, Gray, Silver, Royal Blue, Colonial Blue, Bright Teal, Burgundy
 
 ## Pricing
 
@@ -45,5 +43,5 @@ All Wrench Rolls are made of heavy nylon fabric for durability
 
 ### Shipping and Handling:
 
-(1 Wrench Roll = $5.85, 2-3 = $7.50)
+(1 Wrench roll = $5.85, 2-4 rolls = $8.50, 5-10 rolls = $10.00)
 
