@@ -3,13 +3,6 @@ title: Tool Rolls
 menu: "main"
 type: "product"
 weight: 8
-images:
-  - "/img/Std_Met_Shor.jpg"
-  - "/img/Std_folded.jpg"
-  - "/img/stdflat.jpg"
-  - "/img/STANDARD.jpg"
-  - "/img/METRIC.jpg"
-  - "/img/SHORTY.jpg"
 ordering: true
 orderform: "/toolrolls/orderformtoolroll.pdf"
 ---
