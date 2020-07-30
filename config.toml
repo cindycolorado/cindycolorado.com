@@ -40,3 +40,6 @@ theme = "initio"
     sharethis = false
     network = "email"
 
+[markup.goldmark.renderer]
+unsafe= true
+

@@ -1,8 +1,10 @@
+{{ $img := .Resources.GetMatch "banner.jpg" }}
+
 <div class="row section topspace">
     <div class="col-md-12">
         <p class="lead text-center text-muted">
             I am excited to design and sew your dreams and ideas into tangible concepts, working models, prototypes and production–ready products."
-            <img src="img/oldmachine.jpg " alt="">
+        <img src="{{ ($img.Resize "1200x").RelPermalink | relURL }}", alt="">
         </p>
     </div>
 </div> <!-- / section -->
