@@ -1,7 +1,6 @@
 ## Ordering
 
-Click below to direct funds to Cindy Colorado through PayPal.
-**THEN ENTER TOTAL AMOUNT DUE AND CONTUNUE.**
+Click below to direct funds to Cindy CONTINUE.**
 
 {{ partial "paynow.html" . }}
 
