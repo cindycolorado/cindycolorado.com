@@ -47,6 +47,6 @@ All hat fabrics are **preshrunk** and *100% cotton*.
 
 ### Shipping and Handling:
 
-(1-6 hats = $5.85), (7-12 = $8.85), (13-25 = $11.00), (26-50 = $16.00)
+(1-5 hats = $5.75), (6-12 = $8.75), (13-25 = $11.50), (26-50 = $16.00)
 
 
