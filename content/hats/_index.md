@@ -31,9 +31,9 @@ All hat fabrics are **preshrunk** and *100% cotton*.
 
 * **Second set of lettering** $2.75 per hat (specify placement)
 
-* **2 color hats available** - Add $1.75 per hat
+* **2 color hats available** - Add $2.00 per hat
 
-* **Second color under bill only**-No charge and you may order a single hat
+* **Second color under bill only**-No charge
 
 * **Flame Resistant** - $17.50 (name and stitching on bill only)
 
@@ -47,6 +47,6 @@ All hat fabrics are **preshrunk** and *100% cotton*.
 
 ### Shipping and Handling:
 
-(1-5 hats = $5.75), (6-12 = $8.75), (13-25 = $11.50), (26-50 = $16.00)
+(1-5 hats = $5.85), (6-12 = $9.75), (13-25 = $12.50), (26-50 = $18.00)
 
 
