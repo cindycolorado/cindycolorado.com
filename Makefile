@@ -12,8 +12,8 @@ run:
 build:
 	@hugo
 	@docker pull nginx:alpine
-	@docker build . -t xaque208/www:cindycolorado
-	@docker push xaque208/www:cindycolorado
+	@docker build . -t zachfi/www:cindycolorado
+	@docker push zachfi/www:cindycolorado
 
 deploy:
 	@kubectl rollout restart deployments/cindycolorado -n comm
