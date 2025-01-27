@@ -12,8 +12,8 @@ run:
 build:
 	@hugo
 	@docker pull nginx:alpine
-	@docker build . -t zachfi/www:cindycolorado
-	@docker push zachfi/www:cindycolorado
+	@docker build . -t reg.dist.svc.cluster.znet:5000/cindycolorado/www:latest
+	@docker push reg.dist.svc.cluster.znet:5000/cindycolorado/www:latest
 
 deploy:
 	@kubectl rollout restart deployments/cindycolorado -n comm
