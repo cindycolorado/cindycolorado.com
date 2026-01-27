@@ -13,9 +13,9 @@ Custom Welder's Hats made to order.  Choose your fabrics and flare below.
 
 All hat fabrics are **preshrunk** and *100% cotton*.
 
-* **Heavy Weight**, (Black, Charcoal, Light Gray, White, Dk Brown, Tobacco, Coffee, Cinnamon, Carmel, Natural, Dk Burgundy, Maroon, Red, Orange, Dark Gold, Gold, Light Yellow, Hunter Green, Dk Olive, Teal Green, Kelly Green, Dark Navy, Dark Royal, Royal Blue, Sky Blue, Turquoise, Dk Purple, Bright Purple, Mossy Oak Camo, Indigo Demin, Railroad Stripe Denim)
+* **Heavy Weight**, (Black, Charcoal, Light Gray, White, Dk Brown, Tobacco, Coffee, Cinnamon, Carmel, Natural, Maroon, Orange, Gold, Light Yellow, Hunter Green, Dk Olive, Teal Green, Kelly Green, Dark Navy, Dark Royal, Royal Blue, Sky Blue, Turquoise, Dk Purple, Bright Purple, Mossy Oak Camo, Indigo Demin, Railroad Stripe Denim)
 
-* **Medium Weight**, (Black, Gray, White, Dk Chocolate, Medium Brown, Khaki, Maroon, Red, Dk Purple, Purple, Royal Blue, Blueberry, Sky Blue, Forest Green, Emerald Green, Dark Olive, Indigo Denim)
+* **Medium Weight**, (Black, Gray, White, Dk Chocolate, Medium Brown, Khaki, Maroon, Red, Dk Purple, Purple, Blueberry, Sky Blue, Forest Green, Emerald Green, Dark Olive)
 
 * **Flame Resistant**, (Navy or Dark Royal)
 
